@@ -44,6 +44,7 @@ img {
 
 .credits {
     margin-top: auto;
+    margin-bottom: 10px;
     text-align: center;
     color: rgba(255, 255, 255, 0.7);
 }
